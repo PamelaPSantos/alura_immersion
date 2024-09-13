@@ -13,6 +13,11 @@ for (let dado of dados) {
         </div>`;
 }
 
+let input = document.getElementById("input");
+if (input.value !== "Meredith Grey" && input.value !== "Cristina Yang" && input.value !== "Mark Sloan") {
+  resultados = "Nenhum resultado encontrado";
+}
+
 section.innerHTML = resultados;
 }
 

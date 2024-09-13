@@ -7,7 +7,7 @@ let dados = [
     },
     {
         nome: 'Cristina Yang',
-        descricao: 'Cristina Yang é um dos maiores atores da série Greys Anatomy. Atualmente, é uma atriz e um dos principais atores da franquia, e também um dos maiores proprietários do estúdio Grey & Sloan. Yang é uma atriz de múltiplas faixas e tem um caráter rebuscado, que muda constantemente, enquanto se dedica a sua carreira de cirurgia. ',
+        descricao: 'Cristina Yang é uma cirurgiã cardiotorácica excepcional em Greys Anatomy, conhecida por sua ambição, inteligência e dedicação à carreira. Embora seja competitiva e focada, ela forma laços profundos, especialmente com Meredith Grey, sendo uma das personagens mais marcantes da série. ',
         img: './imgs/cristina.jpg',
         link: 'https://pt.wikipedia.org/wiki/Cristina_Yang'
     }, 
